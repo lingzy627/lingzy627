@@ -2,4 +2,4 @@
 - 👀 I’m interested in Statistical modeling.
 - 🌱 I’m currently learning non-parametric statatistics.
 - 💞️ I’m looking to collaborate on ---.
-- 📫 How to reach me leeej7537@gamil.com.
+- 📫 How to reach me ejkrsu97@gamil.com.
