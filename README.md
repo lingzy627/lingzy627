@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eun-Ji.
+- 👋 Hi, I’m Eun-Ji, Lee.
 - 👀 I’m interested in nonparametric function estimation.
 - 🌱 I’m currently learning whatever.
 - 📫 How to reach me ejkrsu97@gmail.com.
