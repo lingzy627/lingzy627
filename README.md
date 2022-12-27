@@ -6,7 +6,6 @@
 
 <h3 align="center">📚 To do 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SAS-004B93?style=flat-square&logo=sas&logoColor=white"/></a>&nbsp
