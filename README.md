@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eun-Ji, Lee.
 - 👀 I’m interested in nonparametric function estimation.
-- 🌱 I’m currently learning whatever.
+- 🌱 I’m currently learning splines.
 - 📫 How to reach me ejkrsu97@gmail.com.
 <!-- 💞️ I’m looking to collaborate on ---. -->
 
