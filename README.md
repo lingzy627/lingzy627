@@ -2,7 +2,7 @@
 - 👀 I’m interested in nonparametric function estimation.
 - 🌱 I’m currently learning whatever.
 - 📫 How to reach me ejkrsu97@gmail.com.
-- <!-- - 💞️ I’m looking to collaborate on ---. -->
+<!-- 💞️ I’m looking to collaborate on ---. -->
 
 <h3 align="center">📚 To do 📚</h3>
 <p align="center">
